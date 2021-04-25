@@ -2,6 +2,11 @@ html {
     position: relative;
 }
 
+body {
+    margin-bottom: 120px;
+    margin-top: 40px;
+}
+
 .jumbotron img {
     width: 200px;
     border: 5px solid #777;
